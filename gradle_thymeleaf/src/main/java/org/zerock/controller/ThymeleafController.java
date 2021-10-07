@@ -18,7 +18,7 @@ public class ThymeleafController {
 			list.add("Data: " + i);
 		}
 		
-		model.addAttribute("name","Gradle_Thymeleaf Sample Data");
+		model.addAttribute("name","Gradle_Thymeleaf Sample Data2");
 		model.addAttribute("list", list);
 	}
 }
